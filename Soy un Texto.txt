@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 Hola
 Hola 
 Hola
@@ -11,7 +9,6 @@ Soy BugFix muajajaj
 asda
 Subiendo un proyecto a Git! 
 Version 2
->>>>>>> Stashed changes
 
 Estoy Editando en GitHub este archivo! 
 :D
