@@ -1,3 +1,17 @@
+<<<<<<< Updated upstream
+=======
+Hola
+Hola 
+Hola
+Hola Mundo!
+Palmera
+Barquillo 
+Soy una nueva linea de BugFix
+Soy BugFix muajajaj
+asda
+Subiendo un proyecto a Git! 
+Version 2
+>>>>>>> Stashed changes
 
 Estoy Editando en GitHub este archivo! 
 :D
